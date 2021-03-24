@@ -1,0 +1,124 @@
+header{
+    background-color: #ffffff;
+   padding-left: 22px;
+    height: 100px;
+    
+   
+}
+#Me{
+    padding-top: 40px;
+    margin-top: 0px;
+    margin-left: 150px;
+    float: left;
+    color: aliceblue;
+    background-color: #4aaaa5;
+    height: 60px;
+}
+.cars{
+    display: flex;
+    position: absolute;
+    flex-wrap: wrap;
+}
+#hr{
+    color:#dddddd;
+}
+#hr2{
+    
+    margin: 0 auto 15px;
+    width: 75%;
+    color:#dddddd;
+}
+
+body{
+    background-color: #dddddd;
+    
+    width: 100%;
+    
+    margin: auto;
+    padding: 0
+}
+.jpg{
+    
+    flex-basis: 140px;
+   flex-grow: 1;
+   flex-shrink: 0;
+   
+   
+}
+.cars{
+    display: flex;
+    position: absolute;
+    
+    
+}
+
+main{
+    margin-top: 30px;
+    background-color: #ffffff;
+    width: 650px;
+    float: center;
+    margin-left: 170px;
+    height: 540px;
+    position: relative;
+    
+    
+}
+main>h2{
+    padding:30px;
+    color: #4aaaa5;
+}
+.second{
+    
+   position: absolute;
+   flex-basis: 50px;
+   flex-shrink: 0;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 1020px;
+    float: right;
+    width: 270px;
+    height: 180px;
+    background-color: #ffffff;
+}
+#about-portfolio-contact{
+    float: right;
+    display: inline;
+    margin-top: 41px;
+    margin-right: 245px;
+    color: #666666;
+    
+}
+#about-portfolio-contact >a{
+    margin-left: 30px;
+    text-decoration: none;
+    color: #666666;
+    
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    display:flex;
+}
+.logo{
+    margin: 3px;
+  height: 60px;
+  width: 60px;
+display: inline-flex;  
+
+
+  
+    
+}
+
+#section2{
+    margin:0px;
+    height: 75px;
+   
+    align-items: center;
+    justify-content: center;
+}
+
+#contact-with-me{
+    color: #4aaaa5;
+}

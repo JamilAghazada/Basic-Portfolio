@@ -1,0 +1,114 @@
+header{
+    background-color: #ffffff;
+   padding-left: 22px;
+    height: 80px;
+}
+#Me{
+    padding-top: 40px;
+    margin-top: 0px;
+    margin-left: 150px;
+    float: left;
+    color: aliceblue;
+    background-color: #4aaaa5;
+    height: 40px;
+}
+label{
+    margin: 10px;
+    color: #666666;
+}
+
+#hr{
+    color:#dddddd;
+}
+#hr2{
+    
+    margin: 0 auto 15px;
+    width: 75%;
+    color:#dddddd;
+}
+
+body{
+    background-color: #dddddd;
+    background-blend-mode: normal;
+    width: 100%;
+    
+    margin: auto;
+    padding: 0
+}
+
+main{
+    margin-top: 30px;
+    background-color: #ffffff;
+    width: 650px;
+    float: center;
+    margin-left: 170px;
+    height: 400px;
+    
+}
+#about-portfolio-contact{
+    float: right;
+    display: inline;
+    margin-top: 41px;
+    margin-right: 245px;
+    color: #666666;
+    
+}
+#about-portfolio-contact >a{
+    margin-left: 30px;
+    text-decoration: none;
+    color: #444444;
+}
+.logo{
+    margin: 3px;
+  height: 60px;
+  width: 60px;
+display: inline-flex;  
+
+
+  
+    
+}
+#name,#email,#message{
+    width: 550px;
+    height: 20px;
+}
+#message{
+    width: 550px;
+    height: 150px;
+    
+}
+textarea{
+    resize: none;
+}
+.second{
+   
+    text-align: center;
+    margin-top: 30px;
+    margin-right: 250px;
+    float: right;
+    width: 270px;
+    height: 180px;
+    background-color: #ffffff;
+}
+main>h2{
+    padding:30px;
+    color: #4aaaa5;
+}footer{
+    
+    text-align:center;
+    background-color: #666666;
+    
+    height: 40px;
+}
+.footer2{
+    margin-top: 20px;
+    background-color: #4aaaa5;
+    width: 100%;
+    margin-bottom: 0;
+    padding: 0;
+    height: 10px;
+}#footer{
+    padding-top: 20px;
+}#contact-with-me{
+    color: #4aaaa5;
+}
